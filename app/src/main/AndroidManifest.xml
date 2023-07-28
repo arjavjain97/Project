@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mainactivity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MainActivity"
+        tools:targetApi="31">
+        <activity
+            android:name=".rishikeshHotel2"
+            android:exported="false" />
+        <activity
+            android:name=".rishikeshHotel"
+            android:exported="false" />
+        <activity
+            android:name=".Kedarnathhotel2"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
+            android:name=".KedarnathHotel"
+            android:exported="false" />
+        <activity
+            android:name=".layout"
+            android:exported="false" />
+        <activity
+            android:name=".Rishikesh"
+            android:exported="false" />
+        <activity
+            android:name=".Mussoorie"
+            android:exported="false" />
+        <activity
+            android:name=".Dehradun"
+            android:exported="false" />
+        <activity
+            android:name=".Nainital"
+            android:exported="false" />
+        <activity
+            android:name=".Badrinath"
+            android:exported="false" />
+        <activity
+            android:name=".Yamunotri"
+            android:exported="false" />
+        <activity
+            android:name=".Gangotri"
+            android:exported="false" />
+        <activity
+            android:name=".Kedarnath"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Uttrakhand_Tourism"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

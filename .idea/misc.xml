@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/drawable/hotel.xml" value="0.2425" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/drawable/splash_screen.xml" value="0.2415" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/font/.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/font/abeezee.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/font/aclonica.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/font/alata.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/font/caveat.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_badrinath.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_dehradun.xml" value="0.2" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_gangotri.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_kedarnath.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_kedarnath_hotel.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_kedarnathhotel2.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_mussoorie.xml" value="0.2" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_nainital.xml" value="0.2" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_rishikesh.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_rishikesh_hotel.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_rishikesh_hotel2.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_yamunotri.xml" value="0.264" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/recyclerlayout.xml" value="0.25" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/layout/searchradius.xml" value="0.1765625" />
+        <entry key="..\:/Users/jains/AndroidStudioProjects/MainActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2425" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
